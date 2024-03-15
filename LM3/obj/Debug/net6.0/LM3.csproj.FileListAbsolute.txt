@@ -1,0 +1,15 @@
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/bin/Debug/net6.0/LM3
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/bin/Debug/net6.0/LM3.deps.json
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/bin/Debug/net6.0/LM3.runtimeconfig.json
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/bin/Debug/net6.0/LM3.dll
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/bin/Debug/net6.0/LM3.pdb
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/obj/Debug/net6.0/LM3.csproj.AssemblyReference.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/obj/Debug/net6.0/LM3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/obj/Debug/net6.0/LM3.AssemblyInfoInputs.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/obj/Debug/net6.0/LM3.AssemblyInfo.cs
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/obj/Debug/net6.0/LM3.csproj.CoreCompileInputs.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/obj/Debug/net6.0/LM3.dll
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/obj/Debug/net6.0/refint/LM3.dll
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/obj/Debug/net6.0/LM3.pdb
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/obj/Debug/net6.0/LM3.genruntimeconfig.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/3/LM3/LM3/obj/Debug/net6.0/ref/LM3.dll
